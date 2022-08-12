@@ -121,6 +121,7 @@ Dans l'**éditeur VBA**, créer un **Module1** dans les **Modules** du projet VB
 ![Exemple](001-getColorsCodesFromACell/images/3.png)
 
 
-_Source : [Déterminer et identifier l'index de couleur d'arrière-plan des cellules sans Excel](https://fr.extendoffice.com/documents/excel/4546-excel-determine-color-of-cell.html)_# 0217-EXCEL-VBA-Les_fonctions_utiles_manquantes
-# 0217-EXCEL-VBA-Les_fonctions_utiles_manquantes
-# 0217-EXCEL-VBA-Les_fonctions_utiles_manquantes
+_Source : [Déterminer et identifier l'index de couleur d'arrière-plan des cellules sans Excel](https://fr.extendoffice.com/documents/excel/4546-excel-determine-color-of-cell.html)_
+
+
+
