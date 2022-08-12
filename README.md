@@ -59,7 +59,7 @@ _Source : [Continuer le code VBA sur une nouvelle ligne](https://excel-malin.com
 
 Dans la cellule Excel qui fait référence à l'autre cellule colorée (Cellule) :
 ```
-    =CONCATENER(getHexRgbColorsCodes(Cellule);getDecColorsCodes(Cellule))														
+    =CONCATENER(getHexRgbColorsCodes(Cellule);getDecColorsCodes(Cellule))
 ```
 
 Dans l'**éditeur VBA**, créer un **Module1** dans les **Modules** du projet VBA (**VBAProject**), ajouter les 2 fonctions suivantes et enregistrer :
